@@ -1,2 +1,2 @@
 # Python-Projects
-Kendi yapmış olduğum python projelerini ekliyorum...
+I'm uploading Python projects that I've made myself
